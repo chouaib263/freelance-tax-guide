@@ -8,6 +8,8 @@ image: "/assets/freelance-tax-cover.jpg"
 lang: "en"
 ---
 
+<meta name="google-site-verification" content="hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI" />
+
 # How Do Freelance Workers Pay Taxes? A Complete Guide for Independent Professionals
 
 
