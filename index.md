@@ -1,5 +1,5 @@
 ---
-title: "How Do Freelance Workers Pay Taxes? A Complete Guide for 2025"
+title: "Freelance Tax Guide"
 description: "Step-by-step tax guide for freelancers in the US, Canada, and UK — learn how to handle estimated payments, forms, deductions, and stay organized year-round."
 author: "Mohamed"
 date: "2025-07-06"
