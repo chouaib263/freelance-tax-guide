@@ -4,4 +4,4 @@ A complete SEO-optimized tax guide for freelancers in the US, Canada, and UK.
 Written by **Mohamed** using Markdown + GitHub Pages.
 
 📸 Cover image included in `/assets/` folder  
-🌍 View live: https://yourusername.github.io/
+🌍 View live: https://chouaib263.github.io/
