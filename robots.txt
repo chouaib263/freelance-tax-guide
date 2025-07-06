@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chouaib263.github.io/sitemap.xml

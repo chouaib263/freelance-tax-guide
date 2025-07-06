@@ -1,0 +1,7 @@
+title: "Freelance Tax Guide"
+description: "Step-by-step tax guide for freelancers in the US, Canada, and UK"
+author: "Mohamed"
+theme: minima
+lang: en
+plugins:
+  - jekyll-sitemap
