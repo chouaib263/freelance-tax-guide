@@ -1,6 +1,6 @@
 ---
 title: "Paying Taxes as a Freelancer in the US, UK, and Canada"
-description: "Step-by-step tax guide for freelancers in the US, Canada, and UK — learn how to handle estimated payments, forms, deductions, and stay organized year-round."
+description: "Step-by-step tax guide for freelancers in the US, Canada, and UK."
 author: "CHOUAIB"
 date: "2025-07-06"
 tags: ["freelance taxes", "independent contractor", "estimated payments", "self-employed"]
