@@ -14,7 +14,7 @@ lang: "en"
 > **Main keyword focus:** _how do freelance workers pay taxes_
 
 
-![freelance tax cover.jpg](/C:/Users/chouaib/Desktop/freelance-tax-site/assets/freelance-tax-cover.jpg.jpg)
+![freelance tax cover.jpg](C:/Users/chouaib/Desktop/freelance-tax-site/assets/freelance-tax-cover.jpg.jpg)
 
 
 
