@@ -13,8 +13,8 @@ lang: "en"
 
 > **Main keyword focus:** _how do freelance workers pay taxes_
 
-![Freelancer preparing taxes at desk](assets/freelance-tax-cover.jpg)
 
+![freelance tax cover.jpg](/C:/Users/chouaib/Desktop/freelance-tax-site/assets/freelance-tax-cover.jpg.jpg)
 
 
 
