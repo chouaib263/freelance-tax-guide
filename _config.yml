@@ -5,3 +5,6 @@ theme: minima
 lang: en
 plugins:
   - jekyll-sitemap
+plugins:
+  - jekyll-seo-tag
+
