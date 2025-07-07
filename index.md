@@ -280,4 +280,3 @@ So bookmark this guide, implement one habit right now—perhaps opening that ded
 
 > **Share this article** with your freelancer friends and colleagues so they can level‑up their tax game too. Because thriving independently shouldn’t mean navigating tax chaos alone.
 > {% seo %}
-> {% include analytics.html %}
