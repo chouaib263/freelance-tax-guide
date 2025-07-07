@@ -10,6 +10,7 @@ tags:
   - "self-employed"
 image: "/assets/freelance-tax-cover.jpg"
 lang: "en"
+layout: default
 google-site-verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
 ---
 
