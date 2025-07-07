@@ -1,10 +1,39 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Structured Data Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://chouaib263.github.io/freelance-tax-guide/"
+      },
+      "headline": "Tax Guide for Freelancers",
+      "description": "Step-by-step tax guide for freelancers in the US, Canada, and UK.",
+      "image": "https://chouaib263.github.io/freelance-tax-guide/assets/freelance-tax-cover.jpg",
+      "author": {
+        "@type": "Person",
+        "name": "CHOUAIB"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Freelance Tax Guide",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://chouaib263.github.io/freelance-tax-guide/assets/freelance-tax-cover.jpg"
+        }
+      },
+      "datePublished": "2025-07-06",
+      "dateModified": "2025-07-06"
+    }
+    </script>
+
     {% seo %}
     {% include analytics.html %}
   </head>
