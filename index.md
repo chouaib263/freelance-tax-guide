@@ -278,7 +278,5 @@ If you remember nothing else, remember this: **The day you send an invoice is th
 So bookmark this guide, implement one habit right now—perhaps opening that dedicated tax savings account—and give “Future You” the gift of calm confidence. When the next filing deadline hits, you’ll know exactly **how freelance workers pay taxes**—and you’ll do it with money to spare.
 
 > **Share this article** with your freelancer friends and colleagues so they can level‑up their tax game too. Because thriving independently shouldn’t mean navigating tax chaos alone.
-> {% seo %}
 > {% include analytics.html %}
-
-
+> {% seo %}
