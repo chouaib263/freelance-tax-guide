@@ -5,6 +5,5 @@ theme: minima
 lang: en
 plugins:
   - jekyll-sitemap
-plugins:
   - jekyll-seo-tag
 google-site-verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
