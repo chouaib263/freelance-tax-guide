@@ -1,4 +1,5 @@
 ---
+
 title: "Tax Guide for Freelancers"
 description: "Step-by-step tax guide for freelancers in the US, Canada, and UK."
 author: "CHOUAIB"
@@ -13,6 +14,7 @@ lang: "en"
 layout: default
 google-site-verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
 ---
+
 
 
 # How Do Freelance Workers Pay Taxes? A Complete Guide for Independent Professionals
