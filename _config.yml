@@ -1,7 +1,6 @@
 title: "Tax Guide for Freelancers"
 description: "How freelance workers pay taxes in the US, UK, and Canada"
 author: "CHOUAIB"
-theme: jekyll-theme-slate
 lang: en
 plugins:
   - jekyll-sitemap
