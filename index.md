@@ -1,7 +1,7 @@
 ---
-
-title: "Tax Guide for Freelancers"
-description: "Freelancer Tax Guide | US, UK & Canada."
+layout: default
+title: "Tax Guide for Freelancers | How Do Freelance Workers Pay Taxes?"
+description: "Complete guide for freelancers on how to pay taxes in the US, UK, and Canada. Learn estimated payments, self-employment tax, forms, and year-round organization."
 author: "CHOUAIB"
 date: "2025-07-06"
 tags:
@@ -11,11 +11,8 @@ tags:
   - "self-employed"
 image: "/assets/freelance-tax-cover.jpg"
 lang: "en"
-layout: default
 google-site-verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
 ---
-
-
 
 # How Do Freelance Workers Pay Taxes? A Complete Guide for Independent Professionals
 
