@@ -1,5 +1,4 @@
-# robots.txt for https://chouaib263.github.io/freelance-tax-guide/
 User-agent: *
-Disallow:
+Allow: /
 
 Sitemap: https://chouaib263.github.io/freelance-tax-guide/sitemap.xml
