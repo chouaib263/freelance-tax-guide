@@ -1,34 +1,33 @@
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang }}">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+    <meta name="author" content="{{ page.author }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% seo %}
+    <link rel="stylesheet" href="/assets/styles.css"> <!-- اختياري -->
+  </head>
 
-  <!-- FAQ Schema -->
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "How do freelance workers pay taxes?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Freelancers pay taxes by estimating their income, tracking expenses, and submitting quarterly payments to the IRS."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do freelancers need to file taxes quarterly?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, if they expect to owe more than $1,000 in taxes, freelancers must file estimated taxes quarterly."
-          }
-        }
-      ]
-    }
-  </script>
+  <body>
+    <header style="text-align:center; padding:20px;">
+      <h1>{{ page.title }}</h1>
+      {% if page.image %}
+        <img src="{{ page.image }}" alt="Cover image" style="max-width:100%; height:auto;">
+      {% endif %}
+      <p><em>By {{ page.author }} | {{ page.date }}</em></p>
+      <hr />
+    </header>
 
-  {% seo %}
-  {% include analytics.html %}
-</head>
+    <main style="max-width:800px; margin:auto; padding:20px;">
+      {{ content }}
+    </main>
+
+    <footer style="text-align:center; font-size:0.9em; margin-top:40px;">
+      <hr />
+      <p>&copy; {{ site.author }} – {{ site.title }}</p>
+      <p><a href="/">Back to Home</a></p>
+    </footer>
+  </body>
+</html>
