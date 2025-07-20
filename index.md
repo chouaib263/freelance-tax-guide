@@ -4,7 +4,6 @@ title: "Freelancer Tax Guide | Pay Taxes Explained"
 description: "Step-by-step tax guide for freelancers and independent professionals. Learn how to file, calculate payments, and stay organized."
 author: "CHOUAIB"
 date: 2025-07-06
-image: /assets/freelance-cover.png
 tags:
   - freelance taxes
   - independent contractor
