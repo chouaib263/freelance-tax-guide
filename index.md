@@ -20,7 +20,7 @@ google-site-verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
 > **Main keyword focus:** _how do freelance workers pay taxes_
 
 
-![Cover image](/assets/freelance-tax-cover.jpg)
+<img src="/assets/freelance-tax-cover.jpg" alt="freelance tax cover" style="max-width: 700px; display: block; margin: 20px auto; border-radius: 6px;" />
 
 
 
