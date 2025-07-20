@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Freelancer Tax Guide | Pay Taxes Explained"
-description: "Your guide to understanding taxes as an independent worker."
+description: "Clear, keyword-rich summary of the page content for freelancers and tax guidance."
 author: "CHOUAIB"
 date: 2025-07-06
 tags:
