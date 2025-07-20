@@ -9,7 +9,7 @@ tags:
   - "independent contractor"
   - "estimated payments"
   - "self-employed"
-image: "/assets/freelance-tax-cover.jpg"
+image: "/assets/freelance-cover.png"
 lang: "en"
 google-site-verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
 ---
@@ -19,7 +19,7 @@ google-site-verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
 
 > **Main keyword focus:** _how do freelance workers pay taxes_
 
-<img src="/assets/freelance-cover.png" alt="freelance tax cover" style="max-width:700px; display:block; margin:20px auto; border-radius:6px;" />
+<img src="/assets/freelance-cover.png" alt="freelance cover" style="max-width:700px; display:block; margin:20px auto; border-radius:6px;" />
 
 
 You love the freedom of freelancing—choosing your projects, setting your schedule, and shaping your income on your terms. Yet the moment tax season rolls around, every independent professional seems to share the same thought: **“How do freelance workers pay taxes without the safety net of a traditional paycheck?”**
