@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "Freelancer Tax Guide | Pay Taxes Explained"
-description: "Complete guide for freelancers on how to pay taxes in the US, UK, and Canada. Learn estimated payments, self-employment tax, forms, and year-round organization."
+description: "Your guide to understanding taxes as an independent worker."
 author: "CHOUAIB"
-date: "2025-07-06"
+date: 2025-07-06
+image: /assets/freelance-cover.png
 tags:
   - "freelance taxes"
   - "independent contractor"
