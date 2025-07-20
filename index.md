@@ -9,7 +9,6 @@ tags:
   - "independent contractor"
   - "estimated payments"
   - "self-employed"
-image: "/assets/freelance-cover.png"
 lang: "en"
 google-site-verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
 ---
