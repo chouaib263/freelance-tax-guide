@@ -2,8 +2,8 @@ title: "Freelancer Tax Guide"
 description: "Complete guide for freelancers on how to pay taxes in the US, UK, and Canada."
 lang: "en"
 author: "CHOUAIB"
-email: "your-email@example.com"   # غيّرها بالإيميل ديالك إذا بغيت
-url: "https://your-github-username.github.io"  # غيّرها بـ repo الحقيقي ديالك
+email: "zchouaib94@gmail.com"
+url: "https://chouaib263.github.io"
 baseurl: "/"  
 theme: minima
 
@@ -21,10 +21,10 @@ highlighter: rouge
 seo:
   type: "article"
   image: "/assets/freelance-tax-cover.jpg"
-  twitter: username  # غيّرها إذا عندك تويتر
+  twitter: ""   # كتقدر تزيد الـ username ديالك إذا عندك تويتر
   name: "CHOUAIB"
 
-# Navigation links (اختياري)
+# Navigation links (اختياري حسب المشروع)
 header_pages:
   - index.md
 
