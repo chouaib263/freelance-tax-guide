@@ -4,7 +4,6 @@ title: "Freelancer Tax Guide | Pay Taxes Explained"
 description: "Your guide to understanding taxes as an independent worker."
 author: "CHOUAIB"
 date: 2025-07-06
-image: /assets/freelance-cover.png
 tags:
   - "freelance taxes"
   - "independent contractor"
