@@ -9,8 +9,6 @@ tags:
   - "independent contractor"
   - "estimated payments"
   - "self-employed"
-lang: "en"
-google-site-verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
 ---
 
 ## How Do Freelance Workers Pay Taxes? A Complete Guide for Independent Professionals
