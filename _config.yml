@@ -1,9 +1,35 @@
-title: "Tax Guide for Freelancers"
-description: "Freelancer Tax Guide | US, UK & Canada"
+title: "Freelancer Tax Guide"
+description: "Complete guide for freelancers on how to pay taxes in the US, UK, and Canada."
+lang: "en"
 author: "CHOUAIB"
+email: "your-email@example.com"   # غيّرها بالإيميل ديالك إذا بغيت
+url: "https://your-github-username.github.io"  # غيّرها بـ repo الحقيقي ديالك
+baseurl: "/"  
 theme: minima
-lang: en
+
+google_site_verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
+
 plugins:
-  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-seo-tag
-google-site-verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+# SEO settings
+seo:
+  type: "article"
+  image: "/assets/freelance-tax-cover.jpg"
+  twitter: username  # غيّرها إذا عندك تويتر
+  name: "CHOUAIB"
+
+# Navigation links (اختياري)
+header_pages:
+  - index.md
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
