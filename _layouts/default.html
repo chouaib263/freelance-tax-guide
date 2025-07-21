@@ -2,7 +2,9 @@
 <html lang="{{ page.lang | default: site.lang }}">
   <head>
     <meta charset="UTF-8" />
-    {% seo %}
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+    <meta name="author" content="{{ page.author }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/assets/styles.css">
   </head>
