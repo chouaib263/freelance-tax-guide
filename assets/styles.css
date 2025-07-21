@@ -1,22 +1,52 @@
+/* General reset & base styles */
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', sans-serif;
   background-color: #fdfdfd;
   color: #333;
-  line-height: 1.6;
+  line-height: 1.7;
+  font-size: 17px;
   margin: 0;
   padding: 0;
 }
 
+/* Headings */
 h1, h2, h3 {
   color: #004085;
-  margin-top: 1em;
+  margin-top: 1.2em;
 }
 
+/* Header styling */
 header {
   background-color: #f0f0f0;
   padding: 20px;
+  text-align: center;
 }
 
+/* Navigation bar */
+nav {
+  text-align: center;
+  margin: 20px 0;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Main content */
+main {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Images */
 img {
   max-width: 100%;
   height: auto;
@@ -24,6 +54,7 @@ img {
   margin: 20px 0;
 }
 
+/* Links */
 a {
   color: #007bff;
   text-decoration: none;
@@ -33,12 +64,7 @@ a:hover {
   text-decoration: underline;
 }
 
-main {
-  max-width: 800px;
-  margin: auto;
-  padding: 20px;
-}
-
+/* Footer */
 footer {
   text-align: center;
   font-size: 0.9em;
@@ -48,9 +74,19 @@ footer {
   border-top: 1px solid #ccc;
 }
 
-body {
-  font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', sans-serif;
-  line-height: 1.7;
-  font-size: 17px;
-  color: #333;
+/* Responsive tweaks */
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  header, main, footer {
+    padding: 15px;
+  }
+
+  nav a {
+    display: block;
+    margin: 8px 0;
+  }
 }
