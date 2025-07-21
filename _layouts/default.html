@@ -4,9 +4,10 @@
     <meta charset="UTF-8" />
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description }}">
-    <meta name="author" content="{{ page.author }}">
+    <meta name="author" content="{{ page.author | default: site.author }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="/assets/styles.css">
+    <meta name="robots" content="index, follow" />
+    <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
   </head>
 
   <body>
@@ -15,9 +16,17 @@
       {% if page.image %}
         <img src="{{ page.image }}" alt="Cover image" style="max-width:100%; height:auto;">
       {% endif %}
-      <p><em>By {{ page.author }} | {{ page.date }}</em></p>
+      <p><em>By {{ page.author | default: site.author }} | {{ page.date }}</em></p>
       <hr />
     </header>
+
+    <nav style="text-align:center; margin-bottom:20px;">
+      {% for page in site.pages %}
+        {% if page.title and page.url and page.url != "/" %}
+          <a href="{{ page.url | relative_url }}" style="margin:0 10px;">{{ page.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
 
     <main style="max-width:800px; margin:auto; padding:20px;">
       {{ content }}
@@ -26,7 +35,7 @@
     <footer style="text-align:center; font-size:0.9em; margin-top:40px;">
       <hr />
       <p>&copy; {{ site.author }} – {{ site.title }}</p>
-      <p><a href="/">Back to Home</a></p>
+      <p><a href="{{ '/' | relative_url }}">Back to Home</a></p>
     </footer>
   </body>
 </html>
