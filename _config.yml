@@ -3,7 +3,7 @@ lang: en-gb
 author: "CHOUAIB"
 email: "zchouaib94@gmail.com"
 url: "https://chouaib263.github.io"
-baseurl: "/"  
+baseurl: "/freelance-tax-guide"
 theme: minima
 
 google_site_verification: "hHZ0onPSG4nWdr_a_u4f-jo7aFvJsA2w9zz-5R-JVlI"
@@ -20,18 +20,8 @@ highlighter: rouge
 seo:
   type: "article"
   image: "/assets/freelance-tax-cover.jpg"
-  twitter: ""         # كتقدر تزيد username ديالك هنا
+  twitter: ""
   name: "CHOUAIB"
-
-# Navigation links (اختياري حسب المشروع)
-header_pages:
-  - index.md
-
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
 
 header_pages:
   - index.md
@@ -41,6 +31,8 @@ header_pages:
   - privacy.md
   - resources.md
 
-
-
-
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
