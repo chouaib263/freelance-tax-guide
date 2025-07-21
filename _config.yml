@@ -32,6 +32,8 @@ header_pages:
   - resources.md
   - terms.md
   - disclaimer.md
+  - glossary.md
+
 
 
 exclude:
