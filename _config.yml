@@ -30,6 +30,9 @@ header_pages:
   - faq.md
   - privacy.md
   - resources.md
+  - terms.md
+  - disclaimer.md
+
 
 exclude:
   - README.md
